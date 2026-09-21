@@ -1,0 +1,10 @@
+<svg width="1100" height="100" viewBox="0 0 1100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="100" fill="#050505"/>
+  <path d="M0 50H1100" stroke="#333333"/>
+  <g fill="#FFFFFF">
+    <rect x="40" y="46" width="8" height="8"/><rect x="56" y="46" width="8" height="8" opacity=".75"/><rect x="72" y="46" width="8" height="8" opacity=".5"/><rect x="88" y="46" width="8" height="8" opacity=".25"/>
+    <rect x="1004" y="46" width="8" height="8" opacity=".25"/><rect x="1020" y="46" width="8" height="8" opacity=".5"/><rect x="1036" y="46" width="8" height="8" opacity=".75"/><rect x="1052" y="46" width="8" height="8"/>
+  </g>
+  <rect x="475" y="30" width="150" height="40" fill="#050505" stroke="#FFFFFF"/>
+  <text x="550" y="55" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="12" letter-spacing="3">END OF FILE</text>
+</svg>
