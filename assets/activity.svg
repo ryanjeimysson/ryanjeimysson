@@ -1,0 +1,39 @@
+<svg width="1100" height="310" viewBox="0 0 1100 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="310" fill="#050505"/>
+  <rect x="1" y="1" width="1098" height="308" stroke="#FFFFFF" stroke-opacity=".28" stroke-width="2"/>
+
+  <text x="36" y="42" fill="#FFFFFF" font-family="monospace" font-weight="700" font-size="16" letter-spacing="3">CONTRIBUTION SIGNAL</text>
+  <text x="1064" y="42" text-anchor="end" fill="#777777" font-family="monospace" font-size="12">LAST 365 DAYS / 2026.09.21</text>
+
+  <g stroke="#FFFFFF" stroke-opacity=".12">
+    <path d="M52 78H1060M52 120H1060M52 162H1060M52 204H1060M52 246H1060"/>
+    <path d="M52 78V246M136 78V246M220 78V246M304 78V246M388 78V246M472 78V246M556 78V246M640 78V246M724 78V246M808 78V246M892 78V246M976 78V246M1060 78V246"/>
+  </g>
+
+  <g fill="#666666" font-family="monospace" font-size="10" text-anchor="middle">
+    <text x="94" y="270">SEP</text><text x="178" y="270">OCT</text><text x="262" y="270">NOV</text>
+    <text x="346" y="270">DEC</text><text x="430" y="270">JAN</text><text x="514" y="270">FEB</text>
+    <text x="598" y="270">MAR</text><text x="682" y="270">APR</text><text x="766" y="270">MAY</text>
+    <text x="850" y="270">JUN</text><text x="934" y="270">JUL</text><text x="1018" y="270">AUG/SEP</text>
+  </g>
+
+  <path d="M52 246H900L928 246L950 204L972 120L994 225L1016 225L1040 120L1060 120V246H52Z" fill="#FFFFFF" fill-opacity=".08"/>
+  <path d="M52 246H900L928 246L950 204L972 120L994 225L1016 225L1040 120L1060 120" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="miter"/>
+
+  <g fill="#050505" stroke="#FFFFFF" stroke-width="3">
+    <rect x="945" y="199" width="10" height="10"/>
+    <rect x="967" y="115" width="10" height="10"/>
+    <rect x="989" y="220" width="10" height="10"/>
+    <rect x="1011" y="220" width="10" height="10"/>
+    <rect x="1035" y="115" width="10" height="10"/>
+  </g>
+
+  <rect x="52" y="91" width="188" height="56" fill="#050505" stroke="#FFFFFF" stroke-opacity=".4"/>
+  <text x="70" y="116" fill="#777777" font-family="monospace" font-size="11" letter-spacing="2">TOTAL CONTRIBUTIONS</text>
+  <text x="70" y="139" fill="#FFFFFF" font-family="monospace" font-weight="700" font-size="22">14</text>
+
+  <g transform="translate(52 286)" fill="#FFFFFF">
+    <rect width="6" height="6"/><rect x="12" width="6" height="6" opacity=".65"/><rect x="24" width="6" height="6" opacity=".3"/>
+  </g>
+  <text x="1060" y="292" text-anchor="end" fill="#777777" font-family="monospace" font-size="10" letter-spacing="2">DATA: GITHUB PUBLIC ACTIVITY</text>
+</svg>
