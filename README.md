@@ -2,11 +2,11 @@
 
 🚀 Estou a caminho de me tornar um desenvolvedor **Full Stack**!
 
-Estou desenvolvendo minhas habilidades em front-end e back-end, aprendendo a transformar ideias em aplicações completas. Aqui compartilho meus projetos, estudos e minha evolução na programação.
+📚 Estou aprendendo e desenvolvendo minhas habilidades por meio de estudos e projetos práticos. Aqui compartilho minha evolução, explorando front-end, back-end, dados e cloud.
 
 ## 🎨 Front-end e Design
 
-Tecnologias e ferramentas que fazem parte da minha jornada:
+Estudando a criação de interfaces com **HTML, CSS, JavaScript, React e Next.js**, além de prototipação com **Figma**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nextjs" alt="Figma, HTML, CSS, JavaScript, React e Next.js" />
@@ -14,28 +14,41 @@ Tecnologias e ferramentas que fazem parte da minha jornada:
 
 ## ⚙️ Back-end
 
+Estudando **Java**, lógica de programação e os fundamentos para desenvolver APIs e aplicações.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Java e Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
 
-## 🗄️ Banco de dados
+## 📊 Dados e Banco de dados
 
-Estudando **SQL** e bancos de dados como **Oracle**.
+Estudando **Python** para trabalhar com dados e **SQL** para consultar e organizar informações em bancos como **PostgreSQL e Oracle**.
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,postgres" alt="Python e PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 </p>
 
-## ☁️ Cloud e ferramentas
+## ☁️ Cloud
+
+Explorando os fundamentos de computação em nuvem e os serviços da **AWS**.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS, Git, GitHub e Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+</p>
+
+## 🛠️ Ferramentas
+
+Ferramentas que fazem parte da minha jornada de aprendizado e desenvolvimento:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA e PyCharm" />
 </p>
 
 ## 🎯 Meu objetivo
 
-Evoluir como desenvolvedor Full Stack, conectando interfaces, APIs e bancos de dados para construir aplicações úteis e bem estruturadas.
+Me tornar um desenvolvedor Full Stack capaz de conectar interfaces, APIs e bancos de dados para construir aplicações completas e úteis.
 
-📚 Aprendendo, praticando e construindo — um projeto de cada vez.
+🌱 Aprendendo e evoluindo — um projeto de cada vez.
 
 🤝 Aberto a trocar ideias, aprender e colaborar em projetos!
