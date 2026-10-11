@@ -1,8 +1,10 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
+🎓 Aluno da **FIAP**, cursando **Desenvolvimento de Sistemas**.
+
 🚀 Estou a caminho de me tornar um desenvolvedor **Full Stack**!
 
-📚 Estou aprendendo e desenvolvendo minhas habilidades por meio de estudos e projetos práticos. Aqui compartilho minha evolução, explorando front-end, back-end, dados e cloud.
+📚 Estou desenvolvendo minhas habilidades por meio de estudos e projetos práticos. Aqui compartilho minha evolução na programação, explorando front-end, back-end, dados e cloud.
 
 ## 🎨 Front-end e Design
 
@@ -49,6 +51,6 @@ Ferramentas que fazem parte da minha jornada de aprendizado e desenvolvimento:
 
 Me tornar um desenvolvedor Full Stack capaz de conectar interfaces, APIs e bancos de dados para construir aplicações completas e úteis.
 
-🌱 Aprendendo e evoluindo um projeto de cada vez.
+🌱 Aprendendo e evoluindo — um projeto de cada vez.
 
 🤝 Aberto a trocar ideias, aprender e colaborar em projetos!
